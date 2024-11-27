@@ -1,6 +1,6 @@
 // src/app/page.tsx
 import Link from 'next/link';
-import { questions, Question } from './questions/data';
+import { questions } from './questions/data';
 //import Cookies from 'js-cookie';
 
 export default function Home() {
